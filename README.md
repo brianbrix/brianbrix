@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianbrix
 - 👀 I’m interested in Java, Spring Boot, reactive Spring, Reactive and adoptive services
-- 🌱 I’m currently learning more on core java
+- 🌱 I’m currently learning Java 19
 - 💞️ I’m looking to collaborate on any interesting java project
 - 📫 How to reach me mokandubrian@gmail.com or whatsapp: +254745865323
 
